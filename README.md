@@ -1,3 +1,2 @@
 # Blynk-ESP32-arduino
-
-https://youtu.be/Dn0G7neQDgo
+uedes ver el video en [YouTube](https://youtu.be/Dn0G7neQDgo)
